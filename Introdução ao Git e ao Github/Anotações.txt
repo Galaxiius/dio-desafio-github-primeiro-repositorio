@@ -1,0 +1,1 @@
+O gitbash é um terminal que visa otimizar o uso do git.
