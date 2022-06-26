@@ -1,1 +1,1 @@
-O gitbash é um terminal que visa otimizar o uso do git.
+O gitbash é um terminal extendido que visa otimizar o uso do git.
