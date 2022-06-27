@@ -1,1 +1,17 @@
 O gitbash é um terminal extendido que visa otimizar o uso do git.
+
+git init - inicializa um diretório / pasta
+git status - comando para mostrar os status atuais do git
+git commit -m " (texto) " - compila os dados e insere uma mensagem das atualizações do código
+git add * - adiciona todos os dados modificados na bolha
+git push origin - encaminha o código para o diretório do github
+git pull - "puxa" o código do github
+git clone (link) - clona o código do diretório e faz uma cópia no computador
+list - lista os arquivos da pasta atual
+cd / (nome da pasta) - entra na pasta selecionada
+cd .. - comando de voltar pastas
+mkdir - cria um diretório 
+rmdir - deleta um diretório
+del - deleta arquivos
+mv (nome do arquivo) ./(nome da pasta) - move o arquivo para a pasta alvo
+echo > - cria arquivos
